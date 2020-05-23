@@ -1,0 +1,2 @@
+def getNum():
+    while i
